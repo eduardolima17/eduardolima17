@@ -17,7 +17,7 @@ Analista de Dados
  &nbsp;<a href="https://www.linkedin.com/in/eduardolima17">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;
- &nbsp;<a href="https://carloseduardodelimalopes@gmail.com">
+ &nbsp;<a href="mailto:carloseduardodelimalopes@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white">
   </a>&nbsp;
  &nbsp;<a href="https://api.whatsapp.com/send?phone=5581982600349">
