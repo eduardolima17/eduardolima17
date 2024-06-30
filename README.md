@@ -14,7 +14,7 @@ Analista de Dados
 ##
 
 ### Você também me encontra em:
- &nbsp;<a href="https://www.linkedin.com/in/eduardilima17">
+ &nbsp;<a href="https://www.linkedin.com/in/eduardolima17">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;
  &nbsp;<a href="https://www.instagram.com/eduardolima.17/">
