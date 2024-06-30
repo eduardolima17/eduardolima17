@@ -1,4 +1,4 @@
-## Eduardo Lima aqui :)
+## Olá! Eu sou Eduardo 👋
 Analista de Dados
 
 - 🎓 Formação em Análise e Desenvolvimento de Sistemas
