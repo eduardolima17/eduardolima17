@@ -8,7 +8,7 @@ Analista de Dados
 <div style="display: inline">
 &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" />&nbsp;&nbsp;
 &nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000" />&nbsp;&nbsp;
+&nbsp;&nbsp;<img width='50' height='50' src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" />&nbsp;&nbsp;
 </div>
 
 ##
