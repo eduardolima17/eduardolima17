@@ -2,7 +2,7 @@
 Analista de Dados
 
 - 🎓 Formação em Análise e Desenvolvimento de Sistemas
-- 🔍 Apaixonado por Analise de Dados
+- 🔍 Apaixonado por Análise de Dados
 - 💻 Atualmente mais focado em:
 
 <div style="display: inline">
